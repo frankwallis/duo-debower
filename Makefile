@@ -6,6 +6,7 @@ BUILD = $(subst lib,build,$(SRC))
 build: $(BUILD)
 
 build/%.js: lib/%.js
+	@mkdir -p build
 	@$(BIN)regenerator --include-runtime $< > $@
 
 clean:
