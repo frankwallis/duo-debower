@@ -17,7 +17,7 @@ when creating the component.json bower dependencies are converted to their githu
 
 this project is experimental
 
-the duo build hook is not available yet so to see this you have to use my fork of duo which can be found [here](http://www.github.com/frankwallis/duo/debower)
+the duo build hook is not available yet so to see this you have to use my fork of duo which can be found [here](http://www.github.com/frankwallis/duo/tree/debower)
 
 see this plugin in action [here](http://www.github.com/frankwallis/tower)
 
