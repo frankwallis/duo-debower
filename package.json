@@ -1,14 +1,15 @@
 {
   "name": "duo-debower",
   "description": "converts bower.json to component.json",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "dependencies": {
     "bower": "^1.3.12",
     "co": "^3",
     "co-fs": "^1.2.0",
     "component-consoler": "^2.0.0",
     "debug": "*",
-    "generator-supported": "~0.0.1"
+    "generator-supported": "~0.0.1",
+    "gulp-util": "^3.0.2"
   },
   "devDependencies": {
     "mocha": "^1.17",
