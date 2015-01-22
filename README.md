@@ -25,3 +25,6 @@ roadmap:
 - more config options (e.g. scriptExtensions, styleExtensions, amdMappings)
 - auto-require bower dependencies?
 - deamdify/browserify-shim?
+
+[![build status](https://secure.travis-ci.org/frankwallis/duo-debower.png)](http://travis-ci.org/frankwallis/duo-debower)
+
